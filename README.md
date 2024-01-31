@@ -39,9 +39,9 @@ My Analysis Are:
                                            Top 10 Customer by Revenue : 
       This Chart shows that there is no major difference between the top 10 customers in terms of revenue generated.
       The average difference in revenue between the top 10 customer is 15.8%
-      The country can aim to strengthen the relationship with these customers to increase customer loyalty and retention, and ultimately drive more sales          and revenue for the company. 
+      The country can aim to strengthen the relationship with these customers to increase customer loyalty and retention, and ultimately drive more sales and revenue for the company. 
 
                                              Revenue by Country :
       The map chat concludes by comparing the places that have produced the greatest revenue to those that have not.
-      The map also reveals that the majority of sales occur only in European zone, with only small number in the American region Along with Russia , there         is no market for items in Africa or Asia.
-      The company can concentrate on the European market more and dive deeper into countries in the region to come up with Strategies that will maximalize         sales from each country in the region alongside Australia and Japan.
+      The map also reveals that the majority of sales occur only in European zone, with only small number in the American region Along with Russia , there is no market for items in Africa or Asia.
+      The company can concentrate on the European market more and dive deeper into countries in the region to come up with Strategies that will maximalize sales from each country in the region alongside Australia and Japan.
